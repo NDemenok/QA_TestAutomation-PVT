@@ -1,0 +1,30 @@
+package Lesson_7;
+
+public class LessonTasksString {
+
+	public static void main(String[] args) {
+		
+	/*	String str = new String("cat");
+		String str1 = new String("dog");*/
+		
+		
+	/*	String result = str+ str1;
+		System.out.println(str.concat(str1));
+		System.out.println(str.concat(str1).concat("xxx"));
+				
+		Arrays.asList(names).stream().forEach(name -> 
+		System.out.println(String.format(str, names)));*/
+		
+		
+		//2.1
+		StringBuilder strb = new  StringBuilder("Cattofey");
+		
+		System.out.println(strb.append("xxx"));
+		System.out.println(strb.insert(5,"xxx"));
+		System.out.println(strb.deleteCharAt(6));
+		System.out.println(strb.append(" I'm a new one string"));
+		System.out.println(strb.delete(4,12));
+		System.out.println(strb.reverse());
+	}
+
+}
