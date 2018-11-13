@@ -1,4 +1,4 @@
-﻿package firsttestpackage;
+package firsttestpackage;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -16,14 +16,7 @@ import junit.framework.Assert;
 
 class testDriver {
 	public static WebDriver driver;
-//	private static final String fieldSearch = "//*[@id=\\\"ss\\\"]";
-//	private static final String fieldnumbersOfAdultsAndRooms = "//*[@id=\\\"xp__guests__toggle\\\"]/span/span[1]";
-//	private static final String fieldnumbersOfRooms = "//*[@id=\\\"no_rooms\\\"]";
-//	private static final String fieldchooseOneRoom = "//*[@id=\\\"no_rooms\\\"]/option[1]";
-//	private static final String fieldnumbersOfAdults = "//*[@id=\\\"group_adults\\\"]";
-//	private static final String fieldchooseTwoAdults = "//*[@id=\\\"group_adults\\\"]/option[2]";
 	
-
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
 		driver = new ChromeDriver();
@@ -33,7 +26,7 @@ class testDriver {
 
 	@AfterAll
 	static void tearDownAfterClass() throws Exception {
-		//driver.quit();
+		driver.quit();
 	}
 
 	@BeforeEach
