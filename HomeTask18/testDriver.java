@@ -1,6 +1,4 @@
-package firsttestpackage;
-
-import static org.junit.jupiter.api.Assertions.*;
+﻿import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
@@ -25,7 +23,7 @@ class testDriver {
 	}
 
 	@AfterAll
-	static void tearDownAfterClass() throws Exception {
+	static void tearDownAfterClass() throws Exception
 		driver.quit();
 	}
 
