@@ -1,0 +1,41 @@
+﻿1)SELECT * FROM [Categories]
+
+2)SELECT categoryId, CategoryName FROM [Categories]
+
+3)SELECT address FROM [Suppliers]
+
+4)SELECT * FROM [Products] order by price desc
+
+5)SELECT * FROM [Orders] order by CustomerID, ShipperID
+
+6)SELECT * FROM [Products] where Price > 40  order by Price desc
+
+7)SELECT * FROM [Products] where price between 20 and 50 order by price
+
+8)SELECT * FROM [Products] where price between 20 and 100 or CategoryID=6
+
+9)SELECT * FROM [Products] where price in (46, 53, 55)
+
+  SELECT * FROM [Products] where price = 46 or price =  53 or price = 55
+
+10)SELECT * FROM [Products] where price not  in (46, 53, 55)
+
+11)SELECT * FROM Products WHERE ProductName LIKE "%han%"
+
+12)INSERT INTO Shippers (ShipperID, ShipperName, Phone) VALUES ('1', 'abc', 'ddd')
+
+13)INSERT INTO Shippers (ShipperName, Phone) VALUES ( 'hello', 'world')
+
+14)INSERT INTO categories (categoryName, description) SELECT shippername, phone FROM shippers
+
+15)INSERT INTO categories (categoryName, description) SELECT shippername = "Speedy Express", phone FROM shippers
+
+16)delete FROM [Shippers] where (shipperName = "Speedy Express")
+
+17)delete FROM [Products] where price < 50
+
+18)delete FROM [Orders]
+
+19)UPDATE categories SET description = 'xxxxxxxx' WHERE categoryName = 'Beverages'
+
+20)UPDATE products SET price = '200000'  WHERE productName = 'Chais'
