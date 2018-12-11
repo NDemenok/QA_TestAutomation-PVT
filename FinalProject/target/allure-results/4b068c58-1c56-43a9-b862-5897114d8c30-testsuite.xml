@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1544559383811" stop="1544559391779" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test positive send message</name>
+    <test-cases>
+        <test-case start="1544559387871" stop="1544559387872" status="passed">
+            <name>When I call send message service</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559387871" stop="1544559387872" status="passed">
+            <name>When I call send message service</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559387873" stop="1544559387873" status="passed">
+            <name>Then I get positive status code by send</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

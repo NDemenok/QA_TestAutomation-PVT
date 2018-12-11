@@ -1,0 +1,47 @@
+{
+  "uid" : "89e3ea2f911b28e1",
+  "name" : "Then I see name \"Бенедикт Камбербэтч\" in the first link",
+  "title" : "Then I see name \"Бенедикт Камбербэтч\" in the first link",
+  "time" : {
+    "start" : 1544559367140,
+    "stop" : 1544559367140,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "5ab373b922331725",
+    "name" : "Scenario: Search by request \"Benedict Cumberbatch\"",
+    "title" : "Scenario: search by request \"Benedict cumberbatch\""
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Search by request \"Benedict Cumberbatch\""
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

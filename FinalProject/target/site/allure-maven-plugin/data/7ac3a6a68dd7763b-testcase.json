@@ -1,0 +1,47 @@
+{
+  "uid" : "7ac3a6a68dd7763b",
+  "name" : "Then I see logout link",
+  "title" : "Then I see logout link",
+  "time" : {
+    "start" : 1544559259341,
+    "stop" : 1544559259341,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "9d351ec59981f454",
+    "name" : "Scenario: Test positive login as correct user",
+    "title" : "Scenario: test positive login as correct user"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive login as correct user"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}
