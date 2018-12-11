@@ -1,0 +1,50 @@
+{
+  "uid" : "393f3006ae71238a",
+  "name" : "Then I see message \"Letter deleted\"",
+  "title" : "Then I see message \"Letter deleted\"",
+  "time" : {
+    "start" : 1544559357935,
+    "stop" : 1544559357936,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : "Test ignored (without reason)!",
+    "stackTrace" : "There are no stack trace"
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PENDING",
+  "suite" : {
+    "uid" : "6614066d9a14690",
+    "name" : "Scenario: Test move letter in trash",
+    "title" : "Scenario: test move letter in trash"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test move letter in trash"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1544559273123" stop="1544559391826" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test move letter to spam</name>
+    <test-cases>
+        <test-case start="1544559275651" stop="1544559275652" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559275651" stop="1544559275652" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559284301" stop="1544559284301" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559288427" stop="1544559288427" status="passed">
+            <name>And I move letter on folder spam</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559288919" stop="1544559288919" status="passed">
+            <name>Then I see message "Letter moved to spam"</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

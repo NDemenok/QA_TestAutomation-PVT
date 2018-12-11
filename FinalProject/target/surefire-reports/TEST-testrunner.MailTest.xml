@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="testrunner.MailTest" time="238.733" tests="58" errors="4" skipped="1" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\User\eclipse-workspace\MyProject"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\User\eclipse-workspace\MyProject"/>
+    <property name="java.runtime.version" value="1.8.0_181-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\User\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Program Files\Maven\apache-maven-3.6.0\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\Git\cmd;D:\ChromeServer;C:\Program Files\Maven\apache-maven-3.6.0\bin;C:\Windows\System32;C:\Program Files\Java\jdk1.8.0_181\bin;;."/>
+    <property name="maven.conf" value="C:\Program Files\Maven\apache-maven-3.6.0\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="library.jansi.path" value="C:\Program Files\Maven\apache-maven-3.6.0\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\User"/>
+    <property name="user.timezone" value="Europe/Minsk"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="user.name" value="User"/>
+    <property name="java.class.path" value="C:\Program Files\Maven\apache-maven-3.6.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_181\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="ru"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_181"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp866"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\Maven\apache-maven-3.6.0\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp866"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Given I am on main application page" classname="Scenario: Test positive login as correct user" time="0.041"/>
+  <testcase name="When I login as correct user" classname="Scenario: Test positive login as correct user" time="0"/>
+  <testcase name="Then I see logout link" classname="Scenario: Test positive login as correct user" time="0"/>
+  <testcase name="Scenario: Test positive login as correct user" classname="Scenario: Test positive login as correct user" time="0.151"/>
+  <testcase name="Given I am on main application page" classname="Scenario: Test check presence of message in the box" time="0"/>
+  <testcase name="When I login as correct user" classname="Scenario: Test check presence of message in the box" time="0"/>
+  <testcase name="Then I see letter on mail box" classname="Scenario: Test check presence of message in the box" time="0"/>
+  <testcase name="Scenario: Test check presence of message in the box" classname="Scenario: Test check presence of message in the box" time="0.111"/>
+  <testcase name="Given I am on main application page" classname="Scenario: Test move letter to spam" time="0"/>
+  <testcase name="When I login as correct user" classname="Scenario: Test move letter to spam" time="0"/>
+  <testcase name="And I move letter on folder spam" classname="Scenario: Test move letter to spam" time="0"/>
+  <testcase name="Then I see message &quot;Letter moved to spam&quot;" classname="Scenario: Test move letter to spam" time="0"/>
+  <testcase name="Scenario: Test move letter to spam" classname="Scenario: Test move letter to spam" time="0.249"/>
+  <testcase name="Given I am on main application page" classname="Scenario: Test send letter for group users" time="0"/>
+  <testcase name="When I login as correct user" classname="Scenario: Test send letter for group users" time="0"/>
+  <testcase name="And I push button &quot;Send letter&quot;" classname="Scenario: Test send letter for group users" time="0"/>
+  <testcase name="And I input a few email addresses and letter subject" classname="Scenario: Test send letter for group users" time="0"/>
+  <testcase name="Then I see message &quot;Letter is sent&quot;" classname="Scenario: Test send letter for group users" time="0"/>
+  <testcase name="Scenario: Test send letter for group users" classname="Scenario: Test send letter for group users" time="0.555"/>
+  <testcase name="Given I am on main application page" classname="Scenario: Test check three letters with flag" time="0"/>
+  <testcase name="When I login as correct user" classname="Scenario: Test check three letters with flag" time="0"/>
+  <testcase name="And I mark three letter with flag" classname="Scenario: Test check three letters with flag" time="0"/>
+  <testcase name="Then I see letter with flag on folder &quot;Marked flag&quot;" classname="Scenario: Test check three letters with flag" time="0.171">
+    <error message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=70.0.3538.110)&#10;  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;USER-PC&apos;, ip: &apos;192.168.100.4&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}&#10;Session ID: 9d624557d2b12fe97d732052f42d3cb3" type="org.openqa.selenium.StaleElementReferenceException">org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.100.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 9d624557d2b12fe97d732052f42d3cb3
+</error>
+  </testcase>
+  <testcase name="Scenario: Test check three letters with flag" classname="Scenario: Test check three letters with flag" time="0.186">
+    <error message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=70.0.3538.110)&#10;  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;USER-PC&apos;, ip: &apos;192.168.100.4&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}&#10;Session ID: 9d624557d2b12fe97d732052f42d3cb3" type="org.openqa.selenium.StaleElementReferenceException">org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.100.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 9d624557d2b12fe97d732052f42d3cb3
+</error>
+  </testcase>
+  <testcase name="Given I am on main application page" classname="Scenario: Test unchecked letters with flag" time="0"/>
+  <testcase name="When I login as correct user" classname="Scenario: Test unchecked letters with flag" time="0"/>
+  <testcase name="And I unchecked letters with flag" classname="Scenario: Test unchecked letters with flag" time="0"/>
+  <testcase name="Then I checked folder &quot;Marked flag&quot; is empty" classname="Scenario: Test unchecked letters with flag" time="0"/>
+  <testcase name="Scenario: Test unchecked letters with flag" classname="Scenario: Test unchecked letters with flag" time="0.09"/>
+  <testcase name="Given I am on main application page" classname="Scenario: Test move letter in trash" time="0"/>
+  <testcase name="When I login as correct user" classname="Scenario: Test move letter in trash" time="0"/>
+  <testcase name="And I delete one message" classname="Scenario: Test move letter in trash" time="0">
+    <error message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=70.0.3538.110)&#10;  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;USER-PC&apos;, ip: &apos;192.168.100.4&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}&#10;Session ID: 9d624557d2b12fe97d732052f42d3cb3" type="org.openqa.selenium.StaleElementReferenceException">org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.100.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 9d624557d2b12fe97d732052f42d3cb3
+</error>
+  </testcase>
+  <testcase name="Scenario: Test move letter in trash" classname="Scenario: Test move letter in trash" time="0.001">
+    <error message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=70.0.3538.110)&#10;  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;USER-PC&apos;, ip: &apos;192.168.100.4&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}&#10;Session ID: 9d624557d2b12fe97d732052f42d3cb3" type="org.openqa.selenium.StaleElementReferenceException">org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.100.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 9d624557d2b12fe97d732052f42d3cb3
+</error>
+  </testcase>
+  <testcase name="Then I see message &quot;Letter deleted&quot;" classname="Scenario: Test move letter in trash" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Given I am on main application page" classname="Scenario: Search by request &quot;Benedict Cumberbatch&quot;" time="0"/>
+  <testcase name="When I perform search by &quot;Бенедикт Камбербэтч&quot;" classname="Scenario: Search by request &quot;Benedict Cumberbatch&quot;" time="0"/>
+  <testcase name="Then I see name &quot;Бенедикт Камбербэтч&quot; in the first link" classname="Scenario: Search by request &quot;Benedict Cumberbatch&quot;" time="0"/>
+  <testcase name="Scenario: Search by request &quot;Benedict Cumberbatch&quot;" classname="Scenario: Search by request &quot;Benedict Cumberbatch&quot;" time="0.085"/>
+  <testcase name="Given I am on main application page" classname="Scenario: Transition by external link &quot;Мой Мир&quot;" time="0"/>
+  <testcase name="When I follow the link &quot;Мой Мир&quot;" classname="Scenario: Transition by external link &quot;Мой Мир&quot;" time="0"/>
+  <testcase name="Then I see button &quot;Зарегистрируйтесь сейчас&quot;" classname="Scenario: Transition by external link &quot;Мой Мир&quot;" time="0"/>
+  <testcase name="Scenario: Transition by external link &quot;Мой Мир&quot;" classname="Scenario: Transition by external link &quot;Мой Мир&quot;" time="0.476"/>
+  <testcase name="Given I am on main application page" classname="Scenario: Transition by external link &quot;ICQ&quot;" time="0"/>
+  <testcase name="When I follow the link &quot;ICQ&quot;" classname="Scenario: Transition by external link &quot;ICQ&quot;" time="0"/>
+  <testcase name="Then I see button &quot;Скачать ICQ&quot;" classname="Scenario: Transition by external link &quot;ICQ&quot;" time="0.001"/>
+  <testcase name="Scenario: Transition by external link &quot;ICQ&quot;" classname="Scenario: Transition by external link &quot;ICQ&quot;" time="0.065"/>
+  <testcase name="When I call send message service" classname="Scenario: Test positive send message" time="0"/>
+  <testcase name="Then I get positive status code by send" classname="Scenario: Test positive send message" time="0"/>
+  <testcase name="Scenario: Test positive send message" classname="Scenario: Test positive send message" time="0.152"/>
+  <testcase name="When I call edit message service" classname="Scenario: Test positive edit message" time="0"/>
+  <testcase name="Then I get positive status code by edit" classname="Scenario: Test positive edit message" time="0"/>
+  <testcase name="Scenario: Test positive edit message" classname="Scenario: Test positive edit message" time="0.065"/>
+  <testcase name="When I call delete message service" classname="Scenario: Test positive delete message" time="0.004"/>
+  <testcase name="Then I get positive status code by delete" classname="Scenario: Test positive delete message" time="0"/>
+  <testcase name="Scenario: Test positive delete message" classname="Scenario: Test positive delete message" time="0.059"/>
+  <testcase name="When I call post photo service" classname="Scenario: Test positive send photo" time="0"/>
+  <testcase name="Then I get positive status code by send photo" classname="Scenario: Test positive send photo" time="0"/>
+  <testcase name="Scenario: Test positive send photo" classname="Scenario: Test positive send photo" time="0.05"/>
+</testsuite>

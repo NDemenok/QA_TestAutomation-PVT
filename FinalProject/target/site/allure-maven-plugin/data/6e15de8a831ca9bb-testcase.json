@@ -1,0 +1,47 @@
+{
+  "uid" : "6e15de8a831ca9bb",
+  "name" : "When I call edit message service",
+  "title" : "When I call edit message service",
+  "time" : {
+    "start" : 1544559388328,
+    "stop" : 1544559388329,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "fc8cc138dc3747bb",
+    "name" : "Scenario: Test positive edit message",
+    "title" : "Scenario: test positive edit message"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive edit message"
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

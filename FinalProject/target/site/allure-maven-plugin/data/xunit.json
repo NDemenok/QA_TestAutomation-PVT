@@ -1,0 +1,934 @@
+{
+  "time" : {
+    "start" : 1544559206503,
+    "stop" : 1544559389518,
+    "duration" : 183015
+  },
+  "testSuites" : [ {
+    "uid" : "279a7446e514dd3c",
+    "name" : "Scenario: Transition by external link \"Мой Мир\"",
+    "title" : "Scenario: transition by external link \"Мой Мир\"",
+    "time" : {
+      "start" : 1544559368784,
+      "stop" : 1544559372746,
+      "duration" : 3962
+    },
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "a1d199497de1ca88",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559368784,
+        "stop" : 1544559368784,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "bcb4ec1cbced7102",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559368784,
+        "stop" : 1544559368784,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "72406bd2fd8392c7",
+      "name" : "When I follow the link \"Мой Мир\"",
+      "title" : "When I follow the link \"Мой Мир\"",
+      "time" : {
+        "start" : 1544559372491,
+        "stop" : 1544559372491,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "bf7347ace03524ff",
+      "name" : "Then I see button \"Зарегистрируйтесь сейчас\"",
+      "title" : "Then I see button \"Зарегистрируйтесь сейчас\"",
+      "time" : {
+        "start" : 1544559372746,
+        "stop" : 1544559372746,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "a26ef6a04afe9f60",
+    "name" : "Scenario: Test positive send photo",
+    "title" : "Scenario: test positive send photo",
+    "time" : {
+      "start" : 1544559389516,
+      "stop" : 1544559389518,
+      "duration" : 2
+    },
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "597ef9b15a3a1fea",
+      "name" : "When I call post photo service",
+      "title" : "When I call post photo service",
+      "time" : {
+        "start" : 1544559389516,
+        "stop" : 1544559389516,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "f084f1b78a21910e",
+      "name" : "When I call post photo service",
+      "title" : "When I call post photo service",
+      "time" : {
+        "start" : 1544559389516,
+        "stop" : 1544559389516,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c687de2451867b1d",
+      "name" : "Then I get positive status code by send photo",
+      "title" : "Then I get positive status code by send photo",
+      "time" : {
+        "start" : 1544559389518,
+        "stop" : 1544559389518,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "9d8bfb4da3b9fb9c",
+    "name" : "Scenario: Transition by external link \"ICQ\"",
+    "title" : "Scenario: transition by external link \"ICQ\"",
+    "time" : {
+      "start" : 1544559378135,
+      "stop" : 1544559383748,
+      "duration" : 5613
+    },
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "15a0001f39934db1",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559378135,
+        "stop" : 1544559378135,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d607d906a7687ee",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559378135,
+        "stop" : 1544559378135,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "116e042f7f72fab6",
+      "name" : "When I follow the link \"ICQ\"",
+      "title" : "When I follow the link \"ICQ\"",
+      "time" : {
+        "start" : 1544559383674,
+        "stop" : 1544559383674,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e6269d9a3b2035c0",
+      "name" : "Then I see button \"Скачать ICQ\"",
+      "title" : "Then I see button \"Скачать ICQ\"",
+      "time" : {
+        "start" : 1544559383748,
+        "stop" : 1544559383748,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "84cb3982b46ce84e",
+    "name" : "Scenario: Test check three letters with flag",
+    "title" : "Scenario: test check three letters with flag",
+    "time" : {
+      "start" : 1544559316886,
+      "stop" : 1544559330389,
+      "duration" : 13503
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 2
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "51bcddd6341d7458",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559316886,
+        "stop" : 1544559316886,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "1fbb88f6522a30f7",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559316886,
+        "stop" : 1544559316886,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8352a812ff8c64c0",
+      "name" : "When I login as correct user",
+      "title" : "When I login as correct user",
+      "time" : {
+        "start" : 1544559326728,
+        "stop" : 1544559326728,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "121cc3e85dfb1bbf",
+      "name" : "And I mark three letter with flag",
+      "title" : "And I mark three letter with flag",
+      "time" : {
+        "start" : 1544559328952,
+        "stop" : 1544559328952,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "300d0ddc5cfac004",
+      "name" : "Then I see letter with flag on folder \"Marked flag\"",
+      "title" : "Then I see letter with flag on folder \"Marked flag\"",
+      "time" : {
+        "start" : 1544559330201,
+        "stop" : 1544559330387,
+        "duration" : 186
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "5920a7134c45ec44",
+      "name" : "Scenario: Test check three letters with flag",
+      "title" : "Scenario: test check three letters with flag",
+      "time" : {
+        "start" : 1544559330389,
+        "stop" : 1544559330389,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    } ]
+  }, {
+    "uid" : "5ab373b922331725",
+    "name" : "Scenario: Search by request \"Benedict Cumberbatch\"",
+    "title" : "Scenario: search by request \"Benedict cumberbatch\"",
+    "time" : {
+      "start" : 1544559361794,
+      "stop" : 1544559367140,
+      "duration" : 5346
+    },
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "8e77c01cbc1bbcb3",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559361794,
+        "stop" : 1544559361794,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "f70411e54bbb708c",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559361794,
+        "stop" : 1544559361794,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "9ceaa81738e6b1d3",
+      "name" : "When I perform search by \"Бенедикт Камбербэтч\"",
+      "title" : "When I perform search by \"Бенедикт Камбербэтч\"",
+      "time" : {
+        "start" : 1544559367041,
+        "stop" : 1544559367042,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "89e3ea2f911b28e1",
+      "name" : "Then I see name \"Бенедикт Камбербэтч\" in the first link",
+      "title" : "Then I see name \"Бенедикт Камбербэтч\" in the first link",
+      "time" : {
+        "start" : 1544559367140,
+        "stop" : 1544559367140,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "c2f2e5eb700798bd",
+    "name" : "Scenario: Test positive send message",
+    "title" : "Scenario: test positive send message",
+    "time" : {
+      "start" : 1544559387871,
+      "stop" : 1544559387873,
+      "duration" : 2
+    },
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "51e22384d6a99274",
+      "name" : "When I call send message service",
+      "title" : "When I call send message service",
+      "time" : {
+        "start" : 1544559387871,
+        "stop" : 1544559387872,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e33c5f600418f37c",
+      "name" : "When I call send message service",
+      "title" : "When I call send message service",
+      "time" : {
+        "start" : 1544559387871,
+        "stop" : 1544559387872,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "93c272c278fc8fde",
+      "name" : "Then I get positive status code by send",
+      "title" : "Then I get positive status code by send",
+      "time" : {
+        "start" : 1544559387873,
+        "stop" : 1544559387873,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "c2fcbba71b507cb5",
+    "name" : "Scenario: Test check presence of message in the box",
+    "title" : "Scenario: test check presence of message in the box",
+    "time" : {
+      "start" : 1544559264112,
+      "stop" : 1544559273013,
+      "duration" : 8901
+    },
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "e94f3d0df0f43a1f",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559264112,
+        "stop" : 1544559264112,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "4e6ab0fc19078c31",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559264112,
+        "stop" : 1544559264112,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "7ae7b31106c94d63",
+      "name" : "When I login as correct user",
+      "title" : "When I login as correct user",
+      "time" : {
+        "start" : 1544559272750,
+        "stop" : 1544559272750,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "bc66d68e3efe858b",
+      "name" : "Then I see letter on mail box",
+      "title" : "Then I see letter on mail box",
+      "time" : {
+        "start" : 1544559273013,
+        "stop" : 1544559273013,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "b3d5d147e08491c6",
+    "name" : "Scenario: Test unchecked letters with flag",
+    "title" : "Scenario: test unchecked letters with flag",
+    "time" : {
+      "start" : 1544559333617,
+      "stop" : 1544559345905,
+      "duration" : 12288
+    },
+    "statistic" : {
+      "total" : 5,
+      "passed" : 5,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "815af1769a3823ef",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559333617,
+        "stop" : 1544559333617,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "321a4d917f8d2736",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559333617,
+        "stop" : 1544559333617,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "bcf23d239d8c4bb6",
+      "name" : "When I login as correct user",
+      "title" : "When I login as correct user",
+      "time" : {
+        "start" : 1544559342270,
+        "stop" : 1544559342270,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "95f1a3275dd5e0c9",
+      "name" : "And I unchecked letters with flag",
+      "title" : "And I unchecked letters with flag",
+      "time" : {
+        "start" : 1544559344392,
+        "stop" : 1544559344392,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "fa5902836ea5a149",
+      "name" : "Then I checked folder \"Marked flag\" is empty",
+      "title" : "Then I checked folder \"Marked flag\" is empty",
+      "time" : {
+        "start" : 1544559345905,
+        "stop" : 1544559345905,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "9d351ec59981f454",
+    "name" : "Scenario: Test positive login as correct user",
+    "title" : "Scenario: test positive login as correct user",
+    "time" : {
+      "start" : 1544559206503,
+      "stop" : 1544559259341,
+      "duration" : 52838
+    },
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "f3e8e58d278a1d14",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559206503,
+        "stop" : 1544559206512,
+        "duration" : 9
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "1db459fd353cfbc",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559206503,
+        "stop" : 1544559206512,
+        "duration" : 9
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "9deb1e4a81aed5d7",
+      "name" : "When I login as correct user",
+      "title" : "When I login as correct user",
+      "time" : {
+        "start" : 1544559258877,
+        "stop" : 1544559258877,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "7ac3a6a68dd7763b",
+      "name" : "Then I see logout link",
+      "title" : "Then I see logout link",
+      "time" : {
+        "start" : 1544559259341,
+        "stop" : 1544559259341,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "74a17f7ac235eaa6",
+    "name" : "Scenario: Test send letter for group users",
+    "title" : "Scenario: test send letter for group users",
+    "time" : {
+      "start" : 1544559294351,
+      "stop" : 1544559314340,
+      "duration" : 19989
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 6,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "af2870ccd715730e",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559294351,
+        "stop" : 1544559294351,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "4135a3042d0a5efd",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559294351,
+        "stop" : 1544559294351,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "461827b4632dbb28",
+      "name" : "When I login as correct user",
+      "title" : "When I login as correct user",
+      "time" : {
+        "start" : 1544559302144,
+        "stop" : 1544559302144,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b19ded0b1036b251",
+      "name" : "And I push button \"Send letter\"",
+      "title" : "And I push button \"Send letter\"",
+      "time" : {
+        "start" : 1544559304902,
+        "stop" : 1544559304902,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "822febc53bf02b43",
+      "name" : "And I input a few email addresses and letter subject",
+      "title" : "And I input a few email addresses and letter subject",
+      "time" : {
+        "start" : 1544559313256,
+        "stop" : 1544559313257,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "6ea8320ef3acd8a9",
+      "name" : "Then I see message \"Letter is sent\"",
+      "title" : "Then I see message \"Letter is sent\"",
+      "time" : {
+        "start" : 1544559314340,
+        "stop" : 1544559314340,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "e1b7e2e824055050",
+    "name" : "Scenario: Test positive delete message",
+    "title" : "Scenario: test positive delete message",
+    "time" : {
+      "start" : 1544559389119,
+      "stop" : 1544559389122,
+      "duration" : 3
+    },
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "f03a4c4b53080c74",
+      "name" : "When I call delete message service",
+      "title" : "When I call delete message service",
+      "time" : {
+        "start" : 1544559389119,
+        "stop" : 1544559389119,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "3ef84f937e67a04c",
+      "name" : "When I call delete message service",
+      "title" : "When I call delete message service",
+      "time" : {
+        "start" : 1544559389119,
+        "stop" : 1544559389119,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "515bc7e85dc9013a",
+      "name" : "Then I get positive status code by delete",
+      "title" : "Then I get positive status code by delete",
+      "time" : {
+        "start" : 1544559389122,
+        "stop" : 1544559389122,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "fc8cc138dc3747bb",
+    "name" : "Scenario: Test positive edit message",
+    "title" : "Scenario: test positive edit message",
+    "time" : {
+      "start" : 1544559388328,
+      "stop" : 1544559388331,
+      "duration" : 3
+    },
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "6e15de8a831ca9bb",
+      "name" : "When I call edit message service",
+      "title" : "When I call edit message service",
+      "time" : {
+        "start" : 1544559388328,
+        "stop" : 1544559388329,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "6ff2667457a52962",
+      "name" : "When I call edit message service",
+      "title" : "When I call edit message service",
+      "time" : {
+        "start" : 1544559388328,
+        "stop" : 1544559388329,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "1e28c7775231ac69",
+      "name" : "Then I get positive status code by edit",
+      "title" : "Then I get positive status code by edit",
+      "time" : {
+        "start" : 1544559388331,
+        "stop" : 1544559388331,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "381b97abf629be7b",
+    "name" : "Scenario: Test move letter to spam",
+    "title" : "Scenario: test move letter to spam",
+    "time" : {
+      "start" : 1544559275651,
+      "stop" : 1544559288919,
+      "duration" : 13268
+    },
+    "statistic" : {
+      "total" : 5,
+      "passed" : 5,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "2ceb512f09b27544",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559275651,
+        "stop" : 1544559275652,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "28a8a6bb6d1a2307",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559275651,
+        "stop" : 1544559275652,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8a7e484e58224833",
+      "name" : "When I login as correct user",
+      "title" : "When I login as correct user",
+      "time" : {
+        "start" : 1544559284301,
+        "stop" : 1544559284301,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "7bc8da2e62b300ab",
+      "name" : "And I move letter on folder spam",
+      "title" : "And I move letter on folder spam",
+      "time" : {
+        "start" : 1544559288427,
+        "stop" : 1544559288427,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "3b314a32d60f5cff",
+      "name" : "Then I see message \"Letter moved to spam\"",
+      "title" : "Then I see message \"Letter moved to spam\"",
+      "time" : {
+        "start" : 1544559288919,
+        "stop" : 1544559288919,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "6614066d9a14690",
+    "name" : "Scenario: Test move letter in trash",
+    "title" : "Scenario: test move letter in trash",
+    "time" : {
+      "start" : 1544559348005,
+      "stop" : 1544559357936,
+      "duration" : 9931
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 3,
+      "pending" : 1,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 2
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "bf328f07985a7199",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559348005,
+        "stop" : 1544559348005,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b4d233105cc52491",
+      "name" : "Given I am on main application page",
+      "title" : "Given I am on main application page",
+      "time" : {
+        "start" : 1544559348005,
+        "stop" : 1544559348005,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d3d8e5980b50ebc7",
+      "name" : "When I login as correct user",
+      "title" : "When I login as correct user",
+      "time" : {
+        "start" : 1544559356239,
+        "stop" : 1544559356239,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "2d526f1d682218d5",
+      "name" : "And I delete one message",
+      "title" : "And I delete one message",
+      "time" : {
+        "start" : 1544559357926,
+        "stop" : 1544559357929,
+        "duration" : 3
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "1710182986e12419",
+      "name" : "Scenario: Test move letter in trash",
+      "title" : "Scenario: test move letter in trash",
+      "time" : {
+        "start" : 1544559357932,
+        "stop" : 1544559357932,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "393f3006ae71238a",
+      "name" : "Then I see message \"Letter deleted\"",
+      "title" : "Then I see message \"Letter deleted\"",
+      "time" : {
+        "start" : 1544559357935,
+        "stop" : 1544559357936,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PENDING"
+    } ]
+  } ]
+}
