@@ -1,0 +1,13 @@
+businessobject\User.class
+dataprovider\UserDataProvider.class
+pages\Page.class
+dataprovider\RecepientsDataProvider.class
+webdriver\WebDriverProvider.class
+steps\SearchSteps.class
+steps\MailSteps.class
+service\VKService.class
+pages\MailPage.class
+testrunner\MailTest.class
+pages\SearchPage.class
+steps\VKSteps.class
+businessobject\Recepient.class

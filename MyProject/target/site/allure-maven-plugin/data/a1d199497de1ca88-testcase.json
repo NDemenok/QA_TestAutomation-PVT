@@ -1,0 +1,47 @@
+{
+  "uid" : "a1d199497de1ca88",
+  "name" : "Given I am on main application page",
+  "title" : "Given I am on main application page",
+  "time" : {
+    "start" : 1544559368784,
+    "stop" : 1544559368784,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "279a7446e514dd3c",
+    "name" : "Scenario: Transition by external link \"Мой Мир\"",
+    "title" : "Scenario: transition by external link \"Мой Мир\""
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Transition by external link \"Мой Мир\""
+  } ],
+  "parameters" : [ ]
+}

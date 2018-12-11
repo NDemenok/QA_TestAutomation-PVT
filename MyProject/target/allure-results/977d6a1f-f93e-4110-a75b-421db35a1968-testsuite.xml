@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1544559159535" stop="1544559392127" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test positive login as correct user</name>
+    <test-cases>
+        <test-case start="1544559206503" stop="1544559206512" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559206503" stop="1544559206512" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559258877" stop="1544559258877" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559259341" stop="1544559259341" status="passed">
+            <name>Then I see logout link</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

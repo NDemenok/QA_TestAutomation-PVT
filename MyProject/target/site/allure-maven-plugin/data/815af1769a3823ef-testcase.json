@@ -1,0 +1,47 @@
+{
+  "uid" : "815af1769a3823ef",
+  "name" : "Given I am on main application page",
+  "title" : "Given I am on main application page",
+  "time" : {
+    "start" : 1544559333617,
+    "stop" : 1544559333617,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "b3d5d147e08491c6",
+    "name" : "Scenario: Test unchecked letters with flag",
+    "title" : "Scenario: test unchecked letters with flag"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Scenario: Test unchecked letters with flag"
+  }, {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

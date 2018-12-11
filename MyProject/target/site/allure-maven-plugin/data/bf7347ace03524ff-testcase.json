@@ -1,0 +1,47 @@
+{
+  "uid" : "bf7347ace03524ff",
+  "name" : "Then I see button \"Зарегистрируйтесь сейчас\"",
+  "title" : "Then I see button \"Зарегистрируйтесь сейчас\"",
+  "time" : {
+    "start" : 1544559372746,
+    "stop" : 1544559372746,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "279a7446e514dd3c",
+    "name" : "Scenario: Transition by external link \"Мой Мир\"",
+    "title" : "Scenario: transition by external link \"Мой Мир\""
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Transition by external link \"Мой Мир\""
+  } ],
+  "parameters" : [ ]
+}

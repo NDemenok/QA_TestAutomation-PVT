@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recepients>
+	<Recepient id="1">
+		<Address>xxxx@unmail.ru;</Address>
+		<Name>Alex Kujavski</Name>
+	</Recepient>
+	<Recepient id="2">
+		<Address>yyyy@unmail.ru;</Address>
+		<Name>Ivan Smirnov</Name>
+	</Recepient>
+	<Recepient id="3">
+		<Address>zzzz@unmail.ru;</Address>
+		<Name>Mika Shakhrai</Name>
+	</Recepient>
+</Recepients>
