@@ -1,0 +1,47 @@
+{
+  "uid" : "e6269d9a3b2035c0",
+  "name" : "Then I see button \"Скачать ICQ\"",
+  "title" : "Then I see button \"Скачать ICQ\"",
+  "time" : {
+    "start" : 1544559383748,
+    "stop" : 1544559383748,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "9d8bfb4da3b9fb9c",
+    "name" : "Scenario: Transition by external link \"ICQ\"",
+    "title" : "Scenario: transition by external link \"ICQ\""
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Transition by external link \"ICQ\""
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

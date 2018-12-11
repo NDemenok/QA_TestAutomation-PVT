@@ -1,0 +1,47 @@
+{
+  "uid" : "d3d8e5980b50ebc7",
+  "name" : "When I login as correct user",
+  "title" : "When I login as correct user",
+  "time" : {
+    "start" : 1544559356239,
+    "stop" : 1544559356239,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "6614066d9a14690",
+    "name" : "Scenario: Test move letter in trash",
+    "title" : "Scenario: test move letter in trash"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test move letter in trash"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

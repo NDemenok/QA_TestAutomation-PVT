@@ -1,0 +1,47 @@
+{
+  "uid" : "93c272c278fc8fde",
+  "name" : "Then I get positive status code by send",
+  "title" : "Then I get positive status code by send",
+  "time" : {
+    "start" : 1544559387873,
+    "stop" : 1544559387873,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c2f2e5eb700798bd",
+    "name" : "Scenario: Test positive send message",
+    "title" : "Scenario: test positive send message"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive send message"
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,47 @@
+{
+  "uid" : "f03a4c4b53080c74",
+  "name" : "When I call delete message service",
+  "title" : "When I call delete message service",
+  "time" : {
+    "start" : 1544559389119,
+    "stop" : 1544559389119,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "e1b7e2e824055050",
+    "name" : "Scenario: Test positive delete message",
+    "title" : "Scenario: test positive delete message"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive delete message"
+  } ],
+  "parameters" : [ ]
+}

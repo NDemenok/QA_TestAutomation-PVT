@@ -1,0 +1,47 @@
+{
+  "uid" : "3b314a32d60f5cff",
+  "name" : "Then I see message \"Letter moved to spam\"",
+  "title" : "Then I see message \"Letter moved to spam\"",
+  "time" : {
+    "start" : 1544559288919,
+    "stop" : 1544559288919,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "381b97abf629be7b",
+    "name" : "Scenario: Test move letter to spam",
+    "title" : "Scenario: test move letter to spam"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test move letter to spam"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

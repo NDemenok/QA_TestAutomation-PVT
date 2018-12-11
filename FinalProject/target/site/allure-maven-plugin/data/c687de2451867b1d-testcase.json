@@ -1,0 +1,47 @@
+{
+  "uid" : "c687de2451867b1d",
+  "name" : "Then I get positive status code by send photo",
+  "title" : "Then I get positive status code by send photo",
+  "time" : {
+    "start" : 1544559389518,
+    "stop" : 1544559389518,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "a26ef6a04afe9f60",
+    "name" : "Scenario: Test positive send photo",
+    "title" : "Scenario: test positive send photo"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive send photo"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

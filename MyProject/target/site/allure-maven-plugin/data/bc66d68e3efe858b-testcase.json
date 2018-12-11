@@ -1,0 +1,47 @@
+{
+  "uid" : "bc66d68e3efe858b",
+  "name" : "Then I see letter on mail box",
+  "title" : "Then I see letter on mail box",
+  "time" : {
+    "start" : 1544559273013,
+    "stop" : 1544559273013,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c2fcbba71b507cb5",
+    "name" : "Scenario: Test check presence of message in the box",
+    "title" : "Scenario: test check presence of message in the box"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test check presence of message in the box"
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

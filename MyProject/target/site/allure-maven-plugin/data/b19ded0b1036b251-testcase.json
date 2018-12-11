@@ -1,0 +1,47 @@
+{
+  "uid" : "b19ded0b1036b251",
+  "name" : "And I push button \"Send letter\"",
+  "title" : "And I push button \"Send letter\"",
+  "time" : {
+    "start" : 1544559304902,
+    "stop" : 1544559304902,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "74a17f7ac235eaa6",
+    "name" : "Scenario: Test send letter for group users",
+    "title" : "Scenario: test send letter for group users"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test send letter for group users"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

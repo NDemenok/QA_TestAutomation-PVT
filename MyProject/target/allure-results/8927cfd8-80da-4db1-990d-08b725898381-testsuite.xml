@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1544559330495" stop="1544559392019" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test unchecked letters with flag</name>
+    <test-cases>
+        <test-case start="1544559333617" stop="1544559333617" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559333617" stop="1544559333617" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559342270" stop="1544559342270" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559344392" stop="1544559344392" status="passed">
+            <name>And I unchecked letters with flag</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1544559345905" stop="1544559345905" status="passed">
+            <name>Then I checked folder "Marked flag" is empty</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="User-PC"/>
+                <label name="thread" value="6212@User-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

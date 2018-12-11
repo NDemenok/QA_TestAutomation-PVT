@@ -1,0 +1,47 @@
+{
+  "uid" : "1db459fd353cfbc",
+  "name" : "Given I am on main application page",
+  "title" : "Given I am on main application page",
+  "time" : {
+    "start" : 1544559206503,
+    "stop" : 1544559206512,
+    "duration" : 9
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "9d351ec59981f454",
+    "name" : "Scenario: Test positive login as correct user",
+    "title" : "Scenario: test positive login as correct user"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive login as correct user"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

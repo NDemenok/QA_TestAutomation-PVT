@@ -1,0 +1,47 @@
+{
+  "uid" : "8a7e484e58224833",
+  "name" : "When I login as correct user",
+  "title" : "When I login as correct user",
+  "time" : {
+    "start" : 1544559284301,
+    "stop" : 1544559284301,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "381b97abf629be7b",
+    "name" : "Scenario: Test move letter to spam",
+    "title" : "Scenario: test move letter to spam"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test move letter to spam"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}

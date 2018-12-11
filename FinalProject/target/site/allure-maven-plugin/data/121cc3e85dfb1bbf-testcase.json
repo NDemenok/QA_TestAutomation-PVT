@@ -1,0 +1,47 @@
+{
+  "uid" : "121cc3e85dfb1bbf",
+  "name" : "And I mark three letter with flag",
+  "title" : "And I mark three letter with flag",
+  "time" : {
+    "start" : 1544559328952,
+    "stop" : 1544559328952,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "84cb3982b46ce84e",
+    "name" : "Scenario: Test check three letters with flag",
+    "title" : "Scenario: test check three letters with flag"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-PC"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test check three letters with flag"
+  }, {
+    "name" : "thread",
+    "value" : "6212@User-PC.main(1)"
+  } ],
+  "parameters" : [ ]
+}
